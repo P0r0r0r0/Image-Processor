@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Polina/proga/ami-Polina-Litvina-PL/tasks/image_processor/build",
+  "command": "C:\\proga\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\image_processor.dir\\image_processor.cpp.obj -c C:\\Users\\Polina\\proga\\ami-Polina-Litvina-PL\\tasks\\image_processor\\image_processor.cpp",
+  "file": "C:/Users/Polina/proga/ami-Polina-Litvina-PL/tasks/image_processor/image_processor.cpp",
+  "output": "CMakeFiles/image_processor.dir/image_processor.cpp.obj"
+},
+{
+  "directory": "C:/Users/Polina/proga/ami-Polina-Litvina-PL/tasks/image_processor/build",
+  "command": "C:\\proga\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\image_processor.dir\\matrix\\matrix.cpp.obj -c C:\\Users\\Polina\\proga\\ami-Polina-Litvina-PL\\tasks\\image_processor\\matrix\\matrix.cpp",
+  "file": "C:/Users/Polina/proga/ami-Polina-Litvina-PL/tasks/image_processor/matrix/matrix.cpp",
+  "output": "CMakeFiles/image_processor.dir/matrix/matrix.cpp.obj"
+}
+]
